@@ -1,4 +1,4 @@
-package src;
+package executaveis;
 
 import tabuleiro.Tabuleiro;
 
